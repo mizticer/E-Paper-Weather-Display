@@ -22,7 +22,7 @@ The above data refreshes every 15 minutes.
 Modules:
 
 - Assistant main.py - main program, configure it to always switch on when the raspberry pi is switched on
-- display.py - 
+- display.py 
 - news.py - module responsible for news
 - clear.py - clean the display before refreshing it
 - weather.py - module responsible for weather
